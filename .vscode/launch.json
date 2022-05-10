@@ -65,8 +65,8 @@
             "request": "launch",
             "program": "/home/leone/文档/SGX_APP/sgx-gmp-all/sgx-gmp-demo/sgxgmpmath",
             "args": [
-                "100",
-                "3"
+                "12345678901234567890",
+                "9876543210"
             ],
             "stopAtEntry": false,
             "cwd": "/home/leone/文档/SGX_APP/sgx-gmp-all/sgx-gmp-demo/",
